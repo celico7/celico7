@@ -5,14 +5,14 @@
 
 - 📄 En savoir plus sur moi (CV) : [cv link](cv link)
   
-- 👨‍💻 Retrouvez tous mes projets : [ici](ici)
+- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories)
 
 - 💬 Autre compétences : **communication - marketing - création audiovisuelle - infographie - gestion de projet**
 
 - 📫 **celiahoffmann78@gmail.com**
 
 - 🗣️ Langues :
--  C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$
+<p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$ </p>
 
 <h3 align="left">Pour me contacter</h3>
 <p align="left">
