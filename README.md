@@ -1,11 +1,18 @@
 <h1 align="center">Bonjour 👋, Je suis Célia Hoffmann</h1>
 <h3 align="center">Etudiante en 2ème de BUT Métiers du Multimédia et de l'Internet</h3>
 
-- 🌱 J'apprend le **java script**
+- 🌱 J'apprend le **le développement web** ainsi que **le développement jeux vidéos**
 
 - 📄 En savoir plus sur moi (CV) : [cv link](cv link)
+  
+- 👨‍💻 Retrouvez tous mes projets : [ici](ici)
+
+- 💬 Autre compétences : **communication - marketing - création audiovisuelle - infographie - gestion de projet**
 
 - 📫 **celiahoffmann78@gmail.com**
+
+- 🗣️ Langues :
+-  C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$
 
 <h3 align="left">Pour me contacter</h3>
 <p align="left">
