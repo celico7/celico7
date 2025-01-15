@@ -7,7 +7,7 @@
   
 - 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) (en construction)
 
-- 💬 Autre compétences : **communication - marketing - création audiovisuelle - infographie - gestion de projet**
+- 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
 
 - 🗣️ Langues :
 <p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$ </p>
