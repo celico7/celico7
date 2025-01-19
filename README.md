@@ -3,9 +3,9 @@
 
 - 🌱 J'apprend le **le développement web** ainsi que **le développement jeux vidéos**
 
-- 📄 En savoir plus sur moi (CV) : [cv link](cv link)
+- 📄 En savoir plus sur moi : [Mon CV]([cv link](https://acrobat.adobe.com/id/urn:aaid:sc:EU:87b6bbb4-ead4-4899-8b1c-ed6a6d2d4670))
   
-- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) (en construction) | Projets graphiques : [ici](https://celiahoffmann.myportfolio.com/)
+- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) | Projets graphiques : [ici](https://celiahoffmann.myportfolio.com/)
 
 - 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
 
