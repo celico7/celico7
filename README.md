@@ -5,7 +5,7 @@
 
 - 📄 En savoir plus sur moi (CV) : [cv link](cv link)
   
-- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) (en construction)
+- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) (en construction) | Projets graphiques : [ici](https://celiahoffmann.myportfolio.com/)
 
 - 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
 
