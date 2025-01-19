@@ -12,12 +12,6 @@
 - 🗣️ Langues :
 <p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$ </p>
 
-<h3 align="left">Pour me contacter</h3>
-<p align="left">
-<a href="linkedin.com/in/célia-hoffmann-8baa042b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="célia hoffmann" height="30" width="40" /></a>
-<a href="https://discord.gg/.celico" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".celico" height="30" width="40" /></a> 
-</p>
-
 <h3 align="left">Languages de programmation et logiciels</h3>
 
 <h4> Logiciels </h4>
