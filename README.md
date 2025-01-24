@@ -10,7 +10,7 @@
 - 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
 
 - 🗣️ Langues :
-<p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{yellow}Allemand}$$ - Apprentissage : $${\color{green}Portugais}$$ </p>
+<p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{greenyellow}Allemand}$$ - Autodidacte : $${\color{green}Portugais}$$ </p>
 
 <h3 align="left">Languages de programmation et logiciels</h3>
 
