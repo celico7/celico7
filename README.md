@@ -3,7 +3,7 @@
 
 - 🌱 J'apprend le **le développement web** ainsi que **le développement jeux vidéos**
 
-- 📄 En savoir plus sur moi : [Mon CV](https://acrobat.adobe.com/id/urn:aaid:sc:EU:912fc308-13eb-4742-aa37-37817dc17442)
+- 📄 En savoir plus sur moi : [Mon CV](https://acrobat.adobe.com/id/urn:aaid:sc:EU:7b9faffb-e9dd-45ef-b648-834f1b5ec7b3)
 
 - 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) | Projets graphiques : [ici](https://celiahoffmann.myportfolio.com/)
 
