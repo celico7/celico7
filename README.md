@@ -7,7 +7,7 @@
 
 - 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) | Projets graphiques : [ici](https://celiahoffmann.myportfolio.com/)
   
-- 🕹️ Mon profil Itch.io pour retrouvez mes jeux : [ici](https://celico.itch.io/)
+- 🕹️ Mon profil Itch.io pour retrouver mes jeux : [ici](https://celico.itch.io/)
 
 - 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
 
