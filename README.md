@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis Célia Hoffmann</h1>
-<h3 align="center">Etudiante en 2ème de BUT Métiers du Multimédia et de l'Internet</h3>
+<h3 align="center">Etudiante en 3ème année de BUT Métiers du Multimédia et de l'Internet</h3>
 
 - 🌱 J'apprend le **le développement web** ainsi que **le développement jeux vidéos**
 
