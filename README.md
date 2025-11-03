@@ -9,7 +9,7 @@
   
 - 🕹️ Mon profil Itch.io pour retrouver mes jeux : [ici](https://celico.itch.io/)
 
-- 💬 Autre compétences : **communication - marketing - UX Design - création audiovisuelle - infographie - gestion de projet**
+- 💬 Autre compétences : **communication - marketing - UX/UI Design - création audiovisuelle - infographie - gestion de projet**
 
 - 🗣️ Langues :
 <p align="left">C1 : $${\color{red}Anglais}$$   - B2 : $${\color{greenyellow}Allemand}$$ - Autodidacte : $${\color{green}Portugais}$$ </p>
