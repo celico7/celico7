@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages de programmation et logiciels</h3>
 
-<h4> Logiciels création </h4>
+<h4> Logiciels création :</h4>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -27,7 +27,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 
-<h4> Dev Tools </h4>
+<h4> Dev Tools :</h4>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
