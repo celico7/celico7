@@ -42,3 +42,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+<!-- Thèmes disponibles : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, etc. -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celico7comment&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- Ajouter les langages les plus utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celico7comment&layout=compact&theme=radical)
