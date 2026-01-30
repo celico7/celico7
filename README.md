@@ -42,3 +42,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+
+<div align="center">
+    <img height="165" src="https://github-stats-seven-jet.vercel.app/api?username=celico7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-stats-seven-jet.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=dracula" />
+</div>
