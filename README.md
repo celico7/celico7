@@ -3,7 +3,7 @@
 
 - 🌱 J'apprend le **le développement web** ainsi que **le développement jeux vidéos**
 
-- 📄 En savoir plus sur moi : [Mon CV](https://drive.google.com/file/d/1phRs3_jaYet0H2WEE-E4PuWOpbm3X49_/view?usp=drive_link)
+- 📄 En savoir plus sur moi : [Mon CV](https://drive.google.com/file/d/1zwohynBL4QN5zU6H4KwX_b6q1vS0HIjN/view?usp=sharing)
 
 - 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) 
   
