@@ -5,7 +5,7 @@
 
 - 📄 En savoir plus sur moi : [Mon CV](https://drive.google.com/file/d/1zwohynBL4QN5zU6H4KwX_b6q1vS0HIjN/view?usp=sharing)
 
-- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) 
+- 👨‍💻 Retrouvez tous mes projets : [ici](https://github.com/celico7?tab=repositories) et mon portfolio : [ici](https://celia-hoffmann-portfolio.vercel.app/)
   
 - 🕹️ Mon profil Itch.io pour retrouver mes jeux : [ici](https://celico.itch.io/)
 
