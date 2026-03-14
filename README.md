@@ -30,15 +30,7 @@
 - 🎮 Retrouve mes jeux sur **[Itch.io](https://celico.itch.io/)**
 - 🌐 Portfolio : **[celia-hoffmann-portfolio.vercel.app](https://celia-hoffmann-portfolio.vercel.app/)**
 - 💬 Autres compétences : `UX/UI Design` · `Gestion de projet` · `Marketing` · `Création audiovisuelle` · `Infographie`
-
-### 🗣️ Langues
-
-| Langue | Niveau |
-|--------|--------|
-| 🇬🇧 Anglais | C1 |
-| 🇩🇪 Allemand | B2 |
-| 🇧🇷 Portugais | Autodidacte |
-
+  
 ---
 
 ## 🛠️ Stack technique
