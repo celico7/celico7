@@ -80,22 +80,13 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=fff" />
+<img height="165" src="https://github-stats-seven-jet.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=celico7&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+  <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=default&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </picture>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=celico7&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B9D&currStreakLabel=A78BFA" />
-
-</div>
 
 ---
 
