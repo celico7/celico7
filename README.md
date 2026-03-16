@@ -10,8 +10,8 @@
 <a href="https://celico.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1zwohynBL4QN5zU6H4KwX_b6q1vS0HIjN/view" target="_blank">
-  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+<a href="https://celico7.github.io/CV/" target="_blank">
+  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -27,6 +27,7 @@
 - 🌱 En apprentissage : **développement web** & **développement de jeux vidéo**
 - 🎮 Retrouve mes jeux sur **[Itch.io](https://celico.itch.io/)**
 - 🌐 Portfolio : **[celia-hoffmann-portfolio.vercel.app](https://celia-hoffmann-portfolio.vercel.app/)**
+- 📑CV : **[https://celico7.github.io/CV/](https://celico7.github.io/CV/)**
 - 💬 Autres compétences : `UX/UI Design` · `Gestion de projet` · `Marketing` · `Création audiovisuelle` · `Infographie`
   
 ---
