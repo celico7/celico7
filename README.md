@@ -28,7 +28,7 @@
 - 🎮 Retrouve mes jeux sur **[Itch.io](https://celico.itch.io/)**
 - 🌐 Portfolio : **[celia-hoffmann-portfolio.vercel.app](https://celia-hoffmann-portfolio.vercel.app/)**
 - 📑CV : **[https://celico7.github.io/CV/](https://celico7.github.io/CV/)**
-- 💬 Autres compétences : `UX/UI Design` · `Gestion de projet` · `Marketing` · `Création audiovisuelle` · `Infographie`
+- 💬 Autres compétences : `UX/UI Design` · `Gestion de projet` · `Communication Marketing` · `Création audiovisuelle` · `Infographie`
   
 ---
 
