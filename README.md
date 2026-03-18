@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Bannière animée (génère la tienne sur https://capsule-render.vercel.app) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Célia%20Hoffmann&fontSize=50&fontAlignY=35&desc=Creative%20Developer%20%7C%20UX%2FUI%20Designer%20%7C%20Game%20Dev&descAlignY=55&animation=fadeIn&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8B2FC9,100:1B1B2F&height=200&section=header&text=Célia%20Hoffmann&fontSize=50&fontAlignY=35&desc=Creative%20Developer%20%7C%20UX%2FUI%20Designer%20%7C%20Game%20Dev&descAlignY=55&animation=fadeIn&fontColor=fff" />
 
 <!-- Badges de contact -->
 <a href="https://celia-hoffmann-portfolio.vercel.app/" target="_blank">
@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8B2FC9,100:1B1B2F&height=100&section=footer&fontColor=fff" />
 <img height="165" src="https://github-stats-seven-jet.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 
   <picture>
