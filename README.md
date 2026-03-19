@@ -54,7 +54,7 @@
 
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+  <img src="https://github-stats-seven-jet.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&count_private=true" />
 </picture>
 
 ---
