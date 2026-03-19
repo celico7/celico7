@@ -50,7 +50,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:8B2FC9,100:1B1B2F&height=100&section=footer&fontColor=fff" />
-<img height="165" src="https://github-stats-seven-jet.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-stats-seven-jet.vercel.app/api?username=celico7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true&max-age=86400" />
 
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celico7&layout=compact&theme=default&hide_border=true" />
