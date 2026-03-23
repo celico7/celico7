@@ -18,9 +18,7 @@
 
 <!-- Projet en cours (mise en avant) -->
 <div align="center">
-  <h2>🚧 Projet en cours — NaviPet-extension</h2>
-  <p><b>Extension Chrome</b> (JavaScript) — mon projet le plus récent en développement.</p>
-
+  <h2>🚧 Projet en cours -> NaviPet-extension</h2>
   <a href="https://github.com/celico7/NaviPet-extension" target="_blank">
     <img src="https://img.shields.io/badge/Voir%20le%20repo-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
