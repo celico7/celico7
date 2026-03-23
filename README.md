@@ -16,6 +16,24 @@
 
 <br/><br/>
 
+<!-- Projet en cours (mise en avant) -->
+<div align="center">
+  <h2>🚧 Projet en cours — NaviPet-extension</h2>
+  <p><b>Extension Chrome</b> (JavaScript) — mon projet le plus récent en développement.</p>
+
+  <a href="https://github.com/celico7/NaviPet-extension" target="_blank">
+    <img src="https://img.shields.io/badge/Voir%20le%20repo-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/celico7/NaviPet-extension" target="_blank">
+    <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/celico7/NaviPet-extension" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  </a>
+</div>
+
+<br/>
+
 <!-- Présentation rapide -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+BUT+MMI+%F0%9F%8E%93;Web+Dev+%2B+Game+Dev+%F0%9F%95%B9%EF%B8%8F;UX%2FUI+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 
