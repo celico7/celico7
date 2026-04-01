@@ -18,15 +18,15 @@
 
 <!-- Projet en cours (mise en avant) -->
 <div align="center">
-  <h2>🚧 Projet en cours -> NaviPet-extension + AO3 Stealth</h2>
+  <h2>🚧 Projet en cours -> NaviPet-extension + Weather Live Data</h2>
   <a href="https://github.com/celico7/NaviPet-extension" target="_blank">
     <img src="https://img.shields.io/badge/Voir%20le%20repo%20NAVIPET-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/celico7/ao3-stealth" target="_blank">
-    <img src="https://img.shields.io/badge/Voir%20le%20repo%20AO3Stealth-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/celico7/weather-live-data" target="_blank">
+    <img src="https://img.shields.io/badge/Voir%20le%20repo%20weatherlivedata-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 <br/>
