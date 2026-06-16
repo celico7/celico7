@@ -25,9 +25,6 @@
     <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/celico7/beat-drop" target="_blank">
-    <img src="https://img.shields.io/badge/Voir%20le%20repo%20BeatDrop-%231B1B2F.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 <br/>
 
