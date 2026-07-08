@@ -44,19 +44,18 @@
   
 ---
 
-### 🎨 Création & Design
 
-### 💻 Développement Web
+### Développement Web
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 
-### 📦 Frameworks & Outils
+### Game Dev
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+
+### Frameworks & Outils
 <img src="https://skillicons.dev/icons?i=symfony,laravel,react,tailwind,bootstrap,git,vscode" />
 
-### 🎨 Création & Design
+### Création & Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
-
-### 🎮 Game Dev
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 
 ---
 
