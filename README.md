@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
 
 ### 🎮 Game Dev
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 
 ---
 
