@@ -35,7 +35,7 @@
 
 ## 👩‍💻 À propos de moi
 
-- 🎓 **3ème année de BUT MMI** — Métiers du Multimédia et de l'Internet
+- 🎓 **M1 en Master P2i** - Pratiques Immersives et Intéractives
 - 🌱 En apprentissage : **développement web** & **développement de jeux vidéo**
 - 🎮 Retrouve mes jeux sur **[Itch.io](https://celico.itch.io/)**
 - 🌐 Portfolio : **[celia-hoffmann-portfolio.vercel.app](https://celia-hoffmann-portfolio.vercel.app/)**
