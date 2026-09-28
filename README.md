@@ -29,7 +29,7 @@
 <br/>
 
 <!-- Présentation rapide -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+BUT+MMI+%F0%9F%8E%93;Web+Dev+%2B+Game+Dev+%F0%9F%95%B9%EF%B8%8F;UX%2FUI+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+Master+P2i+%F0%9F%8E%93;Web+Dev+%2B+Game+Dev+%F0%9F%95%B9%EF%B8%8F;UX%2FUI+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 
 ---
 
